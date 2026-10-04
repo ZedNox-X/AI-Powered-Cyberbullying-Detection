@@ -15,6 +15,9 @@ An educational AI/NLP web application that classifies online messages into **non
 - Reproducible model-training script
 - Responsive UI
 
+- <img width="1672" height="941" alt="Cyberbullying Detection System" src="https://github.com/user-attachments/assets/7b51aabd-7bef-442f-aac2-6318b317fe47" />
+
+
 ## Important note
 
 The included dataset is a **small demonstration dataset created for this repository**. It is not suitable for production moderation or measuring real-world model performance. For a research or production system, replace it with a properly licensed, diverse, human-annotated dataset and evaluate precision, recall, F1-score, subgroup performance, and false-positive/false-negative rates.
